@@ -1,2 +1,14 @@
 # nodejs-typeorm-mongodb-inheritance
-Inheritance with typeorm and mongodb
+
+A class inheritance example with nodejs, typeorm and mongodb.
+
+# Instructions
+
+```bash
+# install
+$ npm install
+# build
+$ npm run build
+# run
+$ npm start
+```
